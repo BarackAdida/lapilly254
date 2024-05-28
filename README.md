@@ -8,11 +8,11 @@
 
 
 ----
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lapilly254&show_icons=true&theme=default)
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&hide_title=true&card_width=450)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lapilly254&layout=compact&langs_count=8&hide_title=true&card_width=450)
 
 <p align="left">
   <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python">
