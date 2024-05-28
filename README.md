@@ -27,6 +27,3 @@
 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=lapilly254&theme=dark)
 
-<hr style="border:1px solid gray">
-
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=lapilly254.your-repo)](visitor_count.md)
