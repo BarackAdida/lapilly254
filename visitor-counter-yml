@@ -1,0 +1,27 @@
+name: Update Visitor Counter
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  update-counter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Update visitor counter
+        run: |
+          VISITOR_COUNT=$(curl -s https://visitor-badge.glitch.me/badge?page_id=${{ github.repository }} | grep -oP '\d+(?=</text>)')
+          echo "Visitor count: $VISITOR_COUNT"
+          echo "VISITOR_COUNT=$VISITOR_COUNT" >> $GITHUB_ENV
+      - name: Commit and push visitor count
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          echo "![visitors](https://visitor-badge.glitch.me/badge?page_id=${{ github.repository }})" > visitor_count.md
+          git add visitor_count.md
+          git commit -m 'Update visitor count'
+          git push
