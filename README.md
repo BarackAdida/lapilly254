@@ -28,9 +28,6 @@
 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=lapilly254&theme=dark)
 
-<hr style="border:1px solid gray">
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/<lapilly254>/<snake>/output/github-contribution-grid-snake.svg)
 
 
 
