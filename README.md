@@ -25,6 +25,8 @@
 </p>
 
 <hr style="border:1px solid gray">
-
+----
+![GitHub Contribution Snake](https://raw.githubusercontent.com/<lapilly254>/<YourRepository>/output/github-contribution-grid-snake.svg)
+----
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=lapilly254&theme=dark)
 
