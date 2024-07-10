@@ -12,7 +12,7 @@
 
 <hr style="border:1px solid gray">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lapilly254&layout=compact&langs_count=8&hide_title=true&card_width=450$theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lapilly254&layout=compact&langs_count=8&hide_title=true&card_width=450&theme=dark)
 
 
 <hr style="border:1px solid gray">
