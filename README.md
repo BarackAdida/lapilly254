@@ -22,7 +22,7 @@
  radius:5px;">
  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" style="background-color:black; border-radius:5px;">
  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" style="background-color:black; border-radius:5px;">
- <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png" alt="Flask" style="background-color:black; border-radius:5px;">
+ <img height="40" src="https://i.imgur.com/FlaskWhiteBackground.png" alt="Flask with White Background" style="background-color:white; border-radius:5px;">
  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" style="background-color:black; border-radius:5px;">
 </p>
 
