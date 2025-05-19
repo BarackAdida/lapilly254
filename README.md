@@ -8,11 +8,11 @@ Always learning, building, and solving real-world problems with code.
 
 ### 📊 GitHub Stats
 
-![Barack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Barack&show_icons=true&count_private=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BarackAdida&show_icons=true&count_private=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Barack&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BarackAdida&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Barack&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=BarackAdida&theme=tokyonight)
 
 ---
 
