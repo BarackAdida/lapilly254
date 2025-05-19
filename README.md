@@ -1,8 +1,7 @@
 ## Hi... I'm Barack 👋
 
 🚀 Welcome to my GitHub profile!  
-I’m a passionate developer with strong skills in **JavaScript**, **Python**, and **C++**.  
-Always learning, building, and solving real-world problems with code.
+I’m a passionate developer skilled in **JavaScript**, **Python**, and **C++**.
 
 ---
 
@@ -16,19 +15,7 @@ Always learning, building, and solving real-world problems with code.
 
 ---
 
-### 💻 Tech Stack:
-- 🧠 **Languages**: JavaScript, Python, C++
-- 🧰 **Tools**: Git & GitHub, VS Code, Chrome DevTools
-- 🌐 **Web**: HTML, CSS, DOM, APIs
-
----
-
 ### 📬 Contact Me:
-- 📧 **Email**: adidabarackpilly@gmail.com  
-- 💬 **Discord**: [My Channel](https://discord.com/channels/342452785658331137/636567006459592704)  
-- 🐦 **Twitter**: [@_adida_barack_](https://twitter.com/_adida_barack_?t=bFk-NhGqYwkSnD8VzPW1JQ&s=08)  
-- ❌ **LinkedIn**: *Not available*
-
----
-
-> 📅 *GitHub member since Oct 2024. Still writing code like it's day one!*
+- Email: adidabarackpilly@gmail.com  
+- Discord: [My Channel](https://discord.com/channels/342452785658331137/636567006459592704)  
+- Twitter: [@_adida_barack_](https://twitter.com/_adida_barack_?t=bFk-NhGqYwkSnD8VzPW1JQ&s=08)
