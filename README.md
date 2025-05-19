@@ -1,30 +1,34 @@
-- 👋 Hi, I’m Adida Barack
-- 😄 Pronouns: he/him
+## Hi... I'm Barack 👋
 
+🚀 Welcome to my GitHub profile!  
+I’m a passionate developer with strong skills in **JavaScript**, **Python**, and **C++**.  
+Always learning, building, and solving real-world problems with code.
 
+---
 
-----
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lapilly254&show_icons=true&theme=dark)
+### 📊 GitHub Stats
 
-<hr style="border:1px solid gray">
+![Barack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Barack&show_icons=true&count_private=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lapilly254&layout=compact&langs_count=8&hide_title=true&card_width=450&theme=dark&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Barack&layout=compact&theme=tokyonight)
 
-<hr style="border:1px solid gray">
+![GitHub Streak](https://streak-stats.demolab.com?user=Barack&theme=tokyonight)
 
-<p align="left">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" style="background-color:black; border-radius:5px;">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" style="background-color:black; border-radius:5px;">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" style="background-color:black; border-radius:5px;">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" style="background-color:black; border-radius:5px;">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png" alt="Flask" style="background-color:black; border-radius:5px;">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" style="background-color:black; border-radius:5px;">
-</p>
+---
 
-<hr style="border:1px solid gray">
+### 💻 Tech Stack:
+- 🧠 **Languages**: JavaScript, Python, C++
+- 🧰 **Tools**: Git & GitHub, VS Code, Chrome DevTools
+- 🌐 **Web**: HTML, CSS, DOM, APIs
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=lapilly254&theme=dark)
+---
 
+### 📬 Contact Me:
+- 📧 **Email**: adidabarackpilly@gmail.com  
+- 💬 **Discord**: [My Channel](https://discord.com/channels/342452785658331137/636567006459592704)  
+- 🐦 **Twitter**: [@_adida_barack_](https://twitter.com/_adida_barack_?t=bFk-NhGqYwkSnD8VzPW1JQ&s=08)  
+- ❌ **LinkedIn**: *Not available*
 
+---
 
-
+> 📅 *GitHub member since Oct 2020. Still writing code like it's day one!*
