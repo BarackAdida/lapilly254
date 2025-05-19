@@ -31,4 +31,4 @@ Always learning, building, and solving real-world problems with code.
 
 ---
 
-> 📅 *GitHub member since Oct 2020. Still writing code like it's day one!*
+> 📅 *GitHub member since Oct 2024. Still writing code like it's day one!*
